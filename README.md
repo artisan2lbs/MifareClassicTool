@@ -118,6 +118,7 @@ Some important things are:
   * Sony Xperia Z3 (SOL26)
   * Xiaomi MI 3
   * ZTE Nubia Z7 Max(NX505J)
+  * Smartisan T1
 * This app **has been known to work** on the following devices.
   * Google Nexus 7 (2012)
   * HTC HTC One
